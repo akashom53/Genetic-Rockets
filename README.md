@@ -1,6 +1,6 @@
 # Genetic Rockets
 
-
+[Click here to see it in action!](https://akashom53.github.io/Genetic-Rockets/)
 This is a javascript applet works on genetic evolution algorithms.
 
   - Rockets are generated with initially random paths
