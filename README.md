@@ -2,6 +2,7 @@
 
 [Click here to see it in action!](https://akashom53.github.io/Genetic-Rockets/)
 This is a javascript applet works on genetic evolution algorithms.
+![screenshot](https://github.com/akashom53/Genetic-Rockets/blob/master/images/screenshot.png?raw=true)
 
   - Rockets are generated with initially random paths
   - Based on distance from the target, crashing, goal achieving, and time taken, each rocket gets a fitness score.
